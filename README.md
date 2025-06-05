@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
  📕  **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [The website is rising again](https://bowenfan.dev/posts/site/site-init/)
+- [The Website Rises Again](https://bowenfan.dev/posts/site/site-init/)
 <!-- BLOG-POST-LIST:END -->
 
 <h4 align="left">🔗 Connect with me:</h4>
