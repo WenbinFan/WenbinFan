@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 
  📕  **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Styleloop AI SaaS Case Study](https://bowenfan.dev/posts/tech/styleloop-case-study/)
 - [The Website Rises Again](https://bowenfan.dev/posts/site/site-init/)
 <!-- BLOG-POST-LIST:END -->
 
