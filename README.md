@@ -16,6 +16,8 @@ I'm a developer with 8+ years of experience building high-quality iOS apps and f
 ![MVVM](https://img.shields.io/badge/MVVM-purple)
 
 #### Full Stack
+![Laravel](https://img.shields.io/badge/Laravel-000000?logo=laravel)
+![Vue3](https://img.shields.io/badge/Vue.js-000000?logo=vuedotjs)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql)
