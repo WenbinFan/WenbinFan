@@ -3,7 +3,7 @@
 
 ### About Me
 
-I'm a developer with 8+ years of experience building high-quality iOS apps and full-stack web products. I recently solo-built and launched [Styleloop.art](https://styleloop.art), an AI image generation platform. Passionate about performance, design, and meaningful products.
+I’m a developer building high-quality iOS apps and full-stack web products. I recently designed, built, and launched [Styleloop.art](https://styleloop.art), an AI image generation platform. I’m passionate about performance, design, and creating meaningful products.
 
 ### Tech Stack
 
